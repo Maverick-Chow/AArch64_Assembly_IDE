@@ -37,12 +37,6 @@ On macOS, you can install these using Homebrew:
 
 ```brew install gtk+3 gtksourceview3```
 
-## Clone the Repository
-
-```git clone https://github.com/wesley-sws/AArch64AssemblyIDE.git```
-
-```cd AArch64AssemblyIDE```
-
 ## Build and Run
 
 ```make```
