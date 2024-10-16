@@ -2,7 +2,7 @@
 
 **This is not an independent project**
 
-This project is copy to an extension to a group project carried out in my first year at Imperial College (commits are not preserved), please note that the code base is written by myself alongside with three other group mates.
+This project is a copy to an extension to a group project carried out in my first year at Imperial College (commits are not preserved), please note that the code base is written by myself alongside with three other group mates.
 
 # Aarch64 Assembly IDE
 
